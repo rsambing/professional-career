@@ -1,7 +1,7 @@
 # 🚀 Professional Career
 
 This repository is where I organize my journey to become a better software engineer and problem solver.  
-It includes my resumes, interview notes, weekly reflections, and learning materials that are helping me grow — both personally and professionally.
+It includes my resumes, interview notes, A2SV community weekly reflections, and learning materials that are helping me grow — both personally and professionally.
 
 ---
 
