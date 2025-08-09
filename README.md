@@ -41,6 +41,6 @@ It’s designed to help beginners in competitive programming improve their skill
 This repo is not just about files — it's about building discipline, resilience, and confidence in my career journey.  
 Whether you're a beginner, student, or working professional, I hope this inspires you to document and share your own growth too.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/reinaldo-s-59095b13b/) — I'd love to learn and grow with others in the tech community.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rsambing/) — I'd love to learn and grow with others in the tech community.
 
 Thanks for stopping by! 🙌
